@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **david.liu1995apr@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shiqian-david-l-11b4b1174/](https://www.linkedin.com/in/shiqian-david-l-11b4b1174/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/linked-in-david-liu/](https://www.linkedin.com/in/linked-in-david-liu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

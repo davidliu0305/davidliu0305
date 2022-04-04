@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python, Pyspark, GCP dataflow, BigQuery**
 
-- 👯 I’m looking to collaborate on **any big data project**
-
 - 👨‍💻 All of my projects are available at [https://github.com/davidliu0305](https://github.com/davidliu0305)
 
 - 📫 How to reach me **david.liu1995apr@gmail.com**

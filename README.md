@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A focused professional with 3+ years of experience and a proven knowledge of Big Data Analytics, API Development and Library Development, Complex Troubleshooting and Algorithm Development, and Database Design and Development.</h3>
+<h3 align="center">A focused professional with 3+ years of experience and a proven knowledge of software development, big Data Analytics, API Development and Library Development, Complex Troubleshooting and Algorithm Development, and Database Design and Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidliu0305&label=Profile%20views&color=0e75b6&style=flat" alt="davidliu0305" /> </p>
 
